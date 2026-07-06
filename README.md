@@ -34,12 +34,6 @@ The dataset contains retail sales transaction data, including:
 
 ---
 
-## 📷 Dashboard Screenshot
-
-*(retail-sale-dashboard.png)*
-
----
-
 ## 🎯 Skills Demonstrated
 - Data Cleaning
 - Data Transformation
