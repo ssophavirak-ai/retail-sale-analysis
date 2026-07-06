@@ -5,17 +5,6 @@ This project is an interactive Power BI dashboard designed to analyze retail sal
 
 ---
 
-## 📊 Dataset
-The dataset contains retail sales transaction data, including:
-- Revenue
-- Orders
-- Products
-- Companies
-- Sales Regions
-- Monthly Sales
-
----
-
 ## 🛠️ Tools Used
 - Power BI Desktop
 - Power Query
